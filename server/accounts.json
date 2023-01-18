@@ -1,0 +1,20 @@
+[
+  {
+    "privateKey": "625948941dc3b19fc7176eeb8a4512e818ef6280ce1516ee38053c14653520a9",
+    "publicKey": "04e62238d88bcbc07a2db1302b889ce0d769498c2b8cf20f214984b893edd7c5409898e02cdc707010ce3db014b801223c434a71efbf6fd1cefddb2d152614b197",
+    "address": "0x714b161655bca3c944e2735bf0cba799f33f820d",
+    "amount": 100
+  },
+  {
+    "privateKey": "d098a9a10cbfc2a8e374a57ac69f7cae0c26535b9db054b8ccb1f05b70e4110b",
+    "publicKey": "04f46c87d5e9d5e78ef0fb5a6415c004366c79b04db9d01de26a8040dc2cdb53ea57573610a85058a20acbfb1e286a91d9b2eaefbcfebf302be9c0faf8dcbb48ca",
+    "address": "0x527c7c9c2c93c40b107a65fd0d762e695758c8c3",
+    "amount": 200
+  },
+  {
+    "privateKey": "8f623352357fb0bd5f53c4b8c232ebdb48dde0f8cb1efea34ba29630e3d3f235",
+    "publicKey": "0493b5b3690f0bddb27d7824f71c32f3b0c86c66bce583e4c7a4eaa36e770b47d7990b5eb45991d3d0b1bee35e3164b2072ba64d6b0c8df9ceba34d87b16121b4e",
+    "address": "0x7af3791e5410cef76e973f486432e6cef919f532",
+    "amount": 300
+  }
+]
